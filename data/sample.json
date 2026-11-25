@@ -1,0 +1,25 @@
+{
+  "depot": "Depot",
+  "vehicle_capacity": 50,
+  "edges": [
+    ["Depot","A",4],["Depot","B",7],["A","B",3],["A","C",6],["B","D",5],
+    ["C","D",2],["C","E",8],["D","E",4],["D","F",9],["E","F",3],
+    ["E","G",6],["F","G",2],["G","Depot",12],["B","H",10],["H","G",4]
+  ],
+  "parcels": [
+    {"id":"P01","dest":"A","weight":8, "priority":5,"deadline":2},
+    {"id":"P02","dest":"C","weight":15,"priority":3,"deadline":8},
+    {"id":"P03","dest":"E","weight":12,"priority":4,"deadline":5},
+    {"id":"P04","dest":"G","weight":20,"priority":2,"deadline":20},
+    {"id":"P05","dest":"B","weight":6, "priority":1,"deadline":24},
+    {"id":"P06","dest":"F","weight":18,"priority":5,"deadline":3},
+    {"id":"P07","dest":"D","weight":9, "priority":3,"deadline":10},
+    {"id":"P08","dest":"H","weight":14,"priority":2,"deadline":18},
+    {"id":"P09","dest":"C","weight":7, "priority":4,"deadline":6},
+    {"id":"P10","dest":"G","weight":11,"priority":1,"deadline":24},
+    {"id":"P11","dest":"E","weight":16,"priority":3,"deadline":12},
+    {"id":"P12","dest":"A","weight":5, "priority":2,"deadline":16},
+    {"id":"P13","dest":"Z","weight":4, "priority":3,"deadline":9},
+    {"id":"P14","dest":"B","weight":80,"priority":5,"deadline":4}
+  ]
+}

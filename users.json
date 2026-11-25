@@ -1,0 +1,14 @@
+{
+  "abc@gmail.com": {
+    "salt": "328a08f3e1af2744b4899d2296d1ad91",
+    "digest": "e8a701b6f85dde0b9af11eb62cdc0a6c8b0a207d41340bbc1eec06f6e239c7bf"
+  },
+  "def@fmail.com": {
+    "salt": "027bf8791a491e3e8c837c3d721e9b86",
+    "digest": "b988fe1c3f5871a51736346db4cd9fe88d7599aa608ca366f3b49ad8d8f3a887"
+  },
+  "rrr@sss.com": {
+    "salt": "00025f6866cb12c108faa417a39ee52d",
+    "digest": "f98843f415a91ce15ddbd2bbb9ca295fafe40363dc4d643d0716c2ac68aa787d"
+  }
+}
